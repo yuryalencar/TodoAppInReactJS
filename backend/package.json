@@ -4,8 +4,8 @@
   "description": "",
   "main": "src/loader.js",
   "scripts": {
-    "dev" : "nodemon",
-    "production" : "pm2 start src/loader.js --name todo-app",
+    "dev": "nodemon",
+    "production": "pm2 start src/loader.js --name todo-app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
