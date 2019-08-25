@@ -36,6 +36,10 @@ This is a Sample of use the ReactJS for development a simple Todo Application.
 - react-router@3.0.2
 - axios@0.15.3
 
+### Redux
+- react-redux@5.0.2
+- redux@3.6.0
+
 ## For install Dependencies
 
 ```
